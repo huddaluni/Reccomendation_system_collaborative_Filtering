@@ -1,4 +1,4 @@
-# Reccomendation_system_collaborative_Filtering
+# Recomendation_system_collaborative_Filtering
 
 Ever wondered how the recommendations appear on your social media or e-commerce websites? 
 
