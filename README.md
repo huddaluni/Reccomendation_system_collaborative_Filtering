@@ -1,6 +1,6 @@
 # Reccomendation_system_collaborative_Filtering
 
-Ever wondendered how the recommendations appear on your social media or e-commerce websites? 
+Ever wondered how the recommendations appear on your social media or e-commerce websites? 
 
 This repository outline a method for creating a recommendation system utilizing collaborative filtering techniques. It covers both neighborhood-based (item-item recommendation) and model-based approaches to provide personalized recommendations. The project demonstrates how to preprocess data, apply collaborative filtering methods, and evaluate the system’s performance.
 
